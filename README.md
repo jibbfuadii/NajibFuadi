@@ -1,3 +1,4 @@
 # Najib Fuadi
  Tugas 1
- :car: halooo ini tugas pertama metkom
+ :tada: Hi everyone! This is me!
+ :sparkles: yo su jingan
