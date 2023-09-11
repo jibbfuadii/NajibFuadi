@@ -1,14 +1,14 @@
-# Najib Fuadi
+<div align="center" width="500">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-8170a9d3d0.gif" width="600">
+</div>
 <h1 align="center">Hi 👋, I'm Najib</h1>
 <h3 align="center">A Geophysiscs student at Gadjah Mada University</h3>
 
-- 🔭 I’m currently working on **bbbbb**
+- 🔭 I Born to be **An Explorer**
 
-- 🌱 I’m currently learning **bbbbb**
+- 🌱 I’m currently learning **Programming, Physics, Geology, Geophysics**
 
-- 👯 I’m looking to collaborate on **bbbb**
-
-- 🤝 I’m looking for help with **bbbbb**
+- 🤝 I can work in a team
 
 - 📫 How to reach me **najibfuadi@mail.ugm.ac.id**
 
